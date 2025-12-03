@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">MusicApp</string>
+
+    <!-- Общие -->
+    <string name="hello_world">Привет, мир!</string>
+    <string name="unknown_artist">Неизвестный исполнитель</string>
+
+    <!-- Экран деталей трека -->
+    <string name="track_details_title">Детали трека</string>
+    <string name="back_button_desc">Назад</string>
+    <string name="album_cover_desc">Обложка альбома</string>
+    <string name="details_duration">Длительность</string>
+    <string name="details_release_date">Дата выхода</string>
+    <string name="details_album">Альбом</string>
+    <string name="details_explicit">Для взрослых</string>
+    <string name="share_button_desc">Поделиться треком</string>
+
+    <!-- Экран поиска -->
+    <string name="search_placeholder">Исполнитель, альбом или трек</string>
+    <string name="search_icon_desc">Поиск</string>
+    <string name="search_idle_text">Начните поиск, чтобы увидеть результаты</string>
+    <string name="toggle_favorite_desc">Добавить или убрать из избранного</string>
+
+    <!-- Экран избранного -->
+    <string name="favorites_title">Избранное</string>
+    <string name="favorites_empty_state">"Вы еще не добавили ни одного трека в избранное."</string>
+
+</resources>
